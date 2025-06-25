@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\Sokoban2\Sokoban2\bin\Debug\Sokoban2.exe.config
+C:\Users\Acer\source\repos\Sokoban2\Sokoban2\bin\Debug\Sokoban2.exe
+C:\Users\Acer\source\repos\Sokoban2\Sokoban2\bin\Debug\Sokoban2.pdb
+C:\Users\Acer\source\repos\Sokoban2\Sokoban2\obj\Debug\GalaxyGame.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Sokoban2\Sokoban2\obj\Debug\Sokoban2.Game.resources
+C:\Users\Acer\source\repos\Sokoban2\Sokoban2\obj\Debug\Sokoban2.Properties.Resources.resources
+C:\Users\Acer\source\repos\Sokoban2\Sokoban2\obj\Debug\GalaxyGame.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Sokoban2\Sokoban2\obj\Debug\GalaxyGame.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Sokoban2\Sokoban2\obj\Debug\Sokoban2.exe
+C:\Users\Acer\source\repos\Sokoban2\Sokoban2\obj\Debug\Sokoban2.pdb
