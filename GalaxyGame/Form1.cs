@@ -45,10 +45,10 @@ namespace Sokoban2
             InitializeComponent();      
             InitializeGame();
         }
-        private void InitializeGame() // основная функция загрузки игры 
+        private void InitializeGame() 
         {
             r = new Random();
-            InitializeObjects(); // инициализация объектов 
+            InitializeObjects(); 
             InitializeTimer();
             RegenRandomNebula();
             RegenRandomEnemy();
@@ -137,8 +137,8 @@ namespace Sokoban2
         }
         private async void RegenRandomEnemy()
         {
-            float initialDelay = INTERVAL_ENEMY; // Начальная задержка между спавнами (в миллисекундах)
-            float growthRate = 0.985f; // Коэффициент роста задержки (настраиваемый под ваше желание)
+            float initialDelay = INTERVAL_ENEMY;
+            float growthRate = 0.985f; 
             short MIN_DELAY = 2200;
             ushort minIntervalRandomSpawn = 0;
 
@@ -157,11 +157,9 @@ namespace Sokoban2
                         rangeY = (short)(r.Next(15, 100) * -1);
                     }
                 }
-                // Уменьшайте задержку между спавнами экспоненциально
+                
                 initialDelay *= growthRate;
-
-                // Дождитесь указанной задержки перед следующим спавном
-                // Для предотвращения переполнения задержки установите минимальное значение
+             
                 if (initialDelay < MIN_DELAY)
                 {
                     initialDelay = MIN_DELAY;
