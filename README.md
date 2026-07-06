@@ -1,2 +1,2 @@
 # Galaxy-War
-A game about ships in space. Destroy enemy ships and set big records!
+A spaceship game. Destroy enemy ships, collect bonuses, and set records!
