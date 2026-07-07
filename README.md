@@ -51,3 +51,7 @@ Demonstration of the game scene and shot
 Enemy and the effect of one of the bonuses (barrier)
 
 
+## Video demonstration
+https://drive.google.com/drive/folders/13Jf__pxmSMmNm3Ca9T9g6rDiuCVwHBdJ?usp=sharing
+
+
