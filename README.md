@@ -11,8 +11,7 @@ This is a 2D arcade game about space warfare against alien ships seeking to conq
 - Custom collision system (ship collider);
 - Shooting system;
 - Added bonuses: increased shooting speed, protective shield, and increased movement speed;
-- Enemy ship spawning;
-- Smooth exponential increase in enemy movement speed with a maximum value;
+- The number of enemies spawned is set to gradually increase exponentially, with a capped maximum;
 - Game timer;
 - Interactions between the player, enemies, and bonuses;
 - Health system
