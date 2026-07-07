@@ -26,10 +26,10 @@ You need to destroy enemy alien ships. But be careful! There are more and more o
 - **Space** — shoot
 
 ### Gameplay
-1. Use the ← and → arrow keys to move the spaceship;
-2. Avoid enemy ships and collect power-ups;
+1. Use the ← and → arrow keys to control your spaceship;
+2. Avoid enemy ships and collect bonuses;
 3. Destroy enemies and survive as long as possible;
-4. Try to achieve the highest score
+4. Try to score as many points as possible.
 
 ## Technologies
 - Windows Forms
