@@ -52,5 +52,3 @@ Demonstration of the game scene and shot
 Enemy and the effect of one of the bonuses (barrier)
 
 
-- OOP
-- EntryPoint
